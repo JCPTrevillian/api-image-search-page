@@ -7,8 +7,7 @@ const searchBox = document.getElementById("search-box");
 const searchResult = document.getElementById("search-result");
 const showMoreBtn = document.getElementById("show-more-btn");
 
-
-let keyword = "55fd955664e9ad61f9f0813f3892770c3";
+let keyword = "5fd955664e9ad61f9f0813f3892770c3";
 let page = 1;
 
 async function searchImages(){
