@@ -1,18 +1,18 @@
-//create your own free API Key at Flickr or Unsplash 
+//create your own free API Key at Unsplash or Flickr
 
-const accessKey = "";
+const accessKey = "L0PfHn6p31Ukt7p0HIR4RFlS96Y-VSvtmhY52HVSK0Y";
 
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
 const searchResult = document.getElementById("search-result");
 const showMoreBtn = document.getElementById("show-more-btn");
 
-let keyword = "5fd955664e9ad61f9f0813f3892770c3";
+let keyword = "";
 let page = 1;
 
 async function searchImages(){
     keyword = searchBox.value;
-    const url = `https://api.flickr.com/search/photos?page=${page}&query=${keyword}&client_id=${accessKey}&per_page=12`;
+    const url = `https://api.unsplash.com/search/photos?page=${page}&query=${keyword}&client_id=${accessKey}&per_page=12`;
 
     const response = await fetch(url);
     const data = await response.json();
