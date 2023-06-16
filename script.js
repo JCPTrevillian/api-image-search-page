@@ -1,4 +1,4 @@
-//create your own free API Key at Unsplash or Flickr
+//create your own free API Key at Unsplash 
 
 const accessKey = "L0PfHn6p31Ukt7p0HIR4RFlS96Y-VSvtmhY52HVSK0Y";
 
