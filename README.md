@@ -10,10 +10,11 @@ Enter any image you would like to see in the search bar then click SEARCH and th
 Rendering of the API Search Page I designed: 
 \
 \
-![uno](https://github.com/JCPTrevillian/api-image-search-page/assets/95890754/26c42f7c-d778-4282-91b0-4187bb3c8e34)
+![uno](https://github.com/JCPTrevillian/api-image-search-page/assets/95890754/6c57948d-a113-437b-adb7-ce5b49105541)
 \
 \
 My search for PUPPIES was successful. Oh how cute they are! 
 \
 \
-![dos](https://github.com/JCPTrevillian/api-image-search-page/assets/95890754/5d2e3294-98b3-4cb8-b1ef-211331dc82c2)
+![dos](https://github.com/JCPTrevillian/api-image-search-page/assets/95890754/071ac1c0-924c-4acb-abfb-383104ed9e72)
+
